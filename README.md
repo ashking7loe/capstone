@@ -16,4 +16,4 @@ Tableau report.pdf is Buiseness Analytics Report
 capestonewa.R contains stastical modelling in R
 
 
-SVMprediction.ipynb contains SVM prediction for Pass Type in Pyton
+SVMprediction.ipynb is a Jupyter Notebook containing SVM prediction for Pass Type in Pyton
